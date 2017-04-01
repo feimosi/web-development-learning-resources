@@ -5,3 +5,7 @@
 
 ## Network
 - [High Performance Browser Networking](https://hpbn.co/)
+
+## Documentation
+- [DevDocs](https://devdocs.io/)
+- [Explain shell](http://explainshell.com/)
