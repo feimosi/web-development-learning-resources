@@ -14,6 +14,8 @@
 
 ## HTML / CSS
 - [HTML & CSS is hard (But it doesn’t have to be) A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [CSS Grid Garden](http://cssgridgarden.com/)
 
 ## Network
 - [High Performance Browser Networking](https://hpbn.co/)
