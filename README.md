@@ -11,9 +11,13 @@
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+- [Chrome DevTools](https://developer.chrome.com/devtools)
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [SurviveJS React](https://survivejs.com/react/introduction/)
 
 ## HTML / CSS
 - [HTML & CSS is hard (But it doesn’t have to be) A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
+- [DOM Enlightenment](http://domenlightenment.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
 
