@@ -14,6 +14,7 @@
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [SurviveJS React](https://survivejs.com/react/introduction/)
+- [Untrusted game](https://alexnisnevich.github.io/untrusted/)
 
 ## HTML / CSS
 - [HTML & CSS is hard (But it doesn’t have to be) A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
@@ -28,6 +29,8 @@
 - [DevDocs](https://devdocs.io/)
 - [Explain shell](http://explainshell.com/)
 - [RegExr](http://regexr.com/)
+- [TLDR pages](https://tldr-pages.github.io/)
 
 ## Linux
+- [CMD Challenge](https://cmdchallenge.com/)
 - [VIM Adventures](https://vim-adventures.com/)
