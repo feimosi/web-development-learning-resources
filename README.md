@@ -15,12 +15,22 @@
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [SurviveJS React](https://survivejs.com/react/introduction/)
 - [Untrusted game](https://alexnisnevich.github.io/untrusted/)
+- [Refactoring Patterns](https://github.com/tcorral/Refactoring_Patterns)
+
+## Document Object Model
+- [DOM Enlightenment](http://domenlightenment.com/)
+- [Plain JS](https://plainjs.com/javascript/)
+- [Kirupa](https://www.kirupa.com/learn/index.htm)
+- [Framework-independent JavaScript components](http://elijahmanor.com/talks/plain-js-comps/)
 
 ## HTML / CSS
 - [HTML & CSS is hard (But it doesn’t have to be) A friendly web development tutorial for complete beginners](https://internetingishard.com/html-and-css/)
-- [DOM Enlightenment](http://domenlightenment.com/)
+- [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+- [The Code Player - video style walkthroughs](http://thecodeplayer.com/)
+- [Maintainable CSS](http://maintainablecss.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
+- [CSS Refresher](https://github.com/vasanthk/css-refresher-notes)
 
 ## Network
 - [High Performance Browser Networking](https://hpbn.co/)
@@ -28,9 +38,25 @@
 ## Documentation
 - [DevDocs](https://devdocs.io/)
 - [Explain shell](http://explainshell.com/)
-- [RegExr](http://regexr.com/)
 - [TLDR pages](https://tldr-pages.github.io/)
+
+## Software Development
+- [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/)
+- [Design Patterns](https://sourcemaking.com/design_patterns)
+
+## Security
+- [Game Of Hacks](http://www.gameofhacks.com/)
+- [Single Page Web App Security Cheat Sheet](https://github.com/eoftedal/writings/blob/master/published/javascript-security-cheat-sheet.md)
+
+## Regular expressions
+- [Regex Crossword](https://regexcrossword.com/)
+- [RegExr](http://regexr.com/)
 
 ## Linux
 - [CMD Challenge](https://cmdchallenge.com/)
 - [VIM Adventures](https://vim-adventures.com/)
+
+## Other
+- [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+- [Learn Docker & Containers](https://www.katacoda.com/courses/docker)
