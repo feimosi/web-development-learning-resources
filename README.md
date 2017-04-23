@@ -1,4 +1,6 @@
-# Resources
+# Web Development Learning Resources
+
+Resources to become a senior web developer
 
 ## JavaScript
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
