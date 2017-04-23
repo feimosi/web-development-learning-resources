@@ -16,6 +16,7 @@
 - [SurviveJS React](https://survivejs.com/react/introduction/)
 - [Untrusted game](https://alexnisnevich.github.io/untrusted/)
 - [Refactoring Patterns](https://github.com/tcorral/Refactoring_Patterns)
+- [Auth Boss](https://github.com/teesloane/Auth-Boss)
 
 ## Document Object Model
 - [DOM Enlightenment](http://domenlightenment.com/)
@@ -39,6 +40,8 @@
 - [DevDocs](https://devdocs.io/)
 - [Explain shell](http://explainshell.com/)
 - [TLDR pages](https://tldr-pages.github.io/)
+- [HTML Reference](http://htmlreference.io/)
+- [CSS Reference](http://cssreference.io/)
 
 ## Software Development
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/)
@@ -53,6 +56,7 @@
 - [RegExr](http://regexr.com/)
 
 ## Linux
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [CMD Challenge](https://cmdchallenge.com/)
 - [VIM Adventures](https://vim-adventures.com/)
 
