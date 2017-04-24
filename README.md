@@ -59,6 +59,7 @@ Resources to become a senior web developer
 
 ## Linux
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Bash Guide](https://github.com/Idnan/bash-guide)
 - [CMD Challenge](https://cmdchallenge.com/)
 - [VIM Adventures](https://vim-adventures.com/)
 
@@ -66,3 +67,4 @@ Resources to become a senior web developer
 - [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 - [Learn Docker & Containers](https://www.katacoda.com/courses/docker)
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
